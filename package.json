@@ -23,5 +23,18 @@
     "batch"
   ],
   "author": "Aditya Yaduvanshi",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:adityayaduvanshi/image-turbo.git"
+  },
+  "homepage": "https://github.com/adityayaduvanshi/image-turbo/blob/master/README.md",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "src/",
+    "LICENSE",
+    "README.md"
+  ]
 }
